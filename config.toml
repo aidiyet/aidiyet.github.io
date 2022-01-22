@@ -17,7 +17,7 @@ url     = "about"
 weight  = 3
 [[menu.main]]
 name    = "Galeri"
-url     = "galeri"
+url     = "gallery"
 weight  = 4
 [[menu.main]]
 name    = "Blog"
@@ -25,7 +25,7 @@ url     = "blog"
 weight  = 5
 [[menu.main]]
 name    = "İletişim"
-url     = "iletisim"
+url     = "contact"
 weight  = 6
 
 # Site Params
@@ -44,7 +44,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/slider.jpg"
+bgImage = "images/anasayfa.png"
 heading = "MERHABA BİZ AİDİYETİZ VE BİZLER"
 description = "Minik bir kıvılcımla, hevesle başlayan ve gün geçtikçe gelişen, büyüyen ekibimizle ilk sayımızı çıkarmış, sizlere sunmuş bulunuyoruz. Amacımız gün geçtikçe büyüyen ve gelişen ailemizin de katkılarıyla dergimizi sürekli kılmak ve uzun yıllar bu vizyonu sürdürebilmektir."
 # button
