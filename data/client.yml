@@ -1,0 +1,12 @@
+enable  : true
+title   : OUR HAPPY CLIENTS
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+clientsLogo:
+  - image : images/bulten_kapak.png
+  - image : images/bulten_kapak.png
+  - image : images/bulten_kapak.png
+  - image : images/bulten_kapak.png
+  - image : images/bulten_kapak.png
+  - image : images/bulten_kapak.png
+  - image : images/bulten_kapak.png
+  - image : images/bulten_kapak.png

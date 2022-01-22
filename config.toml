@@ -9,11 +9,11 @@ url     = "/"
 weight  = 1
 [[menu.main]]
 name    = "Hakkımızda"
-url     = "about"
+url     = "service"
 weight  = 2
 [[menu.main]]
 name    = "Yayınlarımız"
-url     = "yayinlarimiz"
+url     = "about"
 weight  = 3
 [[menu.main]]
 name    = "Galeri"
@@ -63,17 +63,17 @@ title   = "TED'LİYİZ"
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "ABOUT ME"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
-image   = "images/about/about.jpg"
+title   = "AİDİYET BÜLTEN ÇIKTI!"
+content = "Vizyonumuz; TEB’li öğrenciler olarak arkadaşlarımıza, küçük kardeşlerimize, mezun büyüklerimize ve Türk Eğitim Derneği ile yolları kesişmiş her yaştan insana ulaşmak ve kendimizi tanıtmak, bilgilerimizi paylaşmak... <br><br>TEB Ankara'nın bir alt kolu olan “Aidiyet Ekibi” olarak, bültenimizi sizlere sunmaktan gurur duyuyoruz! Bilgilendirici, öğretici ve eğlenceli içeriklerle ve sürprizlerle karşınıza çıkıyoruz. <br><br><a href='https://joom.ag/jABI' target='_blank'>Aidiyet Bülteni 1. sayı için tıklayınız.</a>"
+image   = "images/bulten_kapak.png"
 
 # Call to Action
 [params.cta]
 enable  = true
-title   = "SO WHAT YOU THINK ?"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-btnText = "Contact with me"
-btnURL  = "/contact"
+title   = "BURSLAR HAKKINDA BİLGİLENMEK İSTER MİSİNİZ ?"
+content = "Türk Eğitim Derneği, üç temel misyonundan biri olan “eğitimde fırsat eşitliğine katkı sağlamak ve donanımlı nesiller yetiştirmek” amacıyla kuruluşundan itibaren maddi imkânları kısıtlı fakat başarılı öğrencilere burslar vermektedir."
+btnText = "Ayrıntılı Bilgi İçin"
+btnURL  = "https://ted.org.tr/burslar"
 
 # Portfolio Section On Homepage
 [params.portfolio]
@@ -82,14 +82,14 @@ title   = "Latest Works"
 subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
 # social icon
-[[params.socialIcon]]
-icon = "ion-social-facebook"
-url = "#"
+# [[params.socialIcon]]
+# icon = "ion-social-facebook"
+# url = "#"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
-url = "#"
+url = "https://instagram.com/tebankara/"
 
-[[params.socialIcon]]
-icon = "ion-social-linkedin"
-url = "#"
+# [[params.socialIcon]]
+# icon = "ion-social-linkedin"
+# url = "#"
