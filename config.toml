@@ -32,7 +32,7 @@ weight  = 6
 [params]
 home = "Anasayfa"
 logo = "images/TED_128.png"
-dateFormat = "6 Ocak 2006"
+dateFormat = ""
 # Meta data
 description = ""
 author = "Admin"
