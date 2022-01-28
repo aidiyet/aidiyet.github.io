@@ -1,7 +1,7 @@
 ---
 title: "No Country For Old Men | Kaosun Hükmü"
 date: 2022-01-27T13:45:06+06:00
-image: images/blog/blog-post-03.jpg
+image: images/blog/no-country-for-oldman-kapak.png
 feature_image: images/blog/no-country-for-oldman.jpg
 author: Yağız Külekçi
 ---
