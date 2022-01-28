@@ -1,4 +1,4 @@
-baseURL       = "http://aidiyet.github.io/"
+baseURL       = "https://aidiyet.github.io/"
 languageCode  = "tr-tr"
 title         = "AİDİYET"
 theme         = "roxo"
