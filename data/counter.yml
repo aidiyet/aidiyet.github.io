@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "AİDİYET GÜN GEÇTİKÇE BÜYÜYOR VE GELİŞİYOR!"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Aktif Okuyucu Sayımız"
+    number: "500"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "İçerik Sayımız"
+    number: "10"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Aktif Üye Sayımız"
+    number: "20"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Tıklanma Sayımız"
+    number: "2000"

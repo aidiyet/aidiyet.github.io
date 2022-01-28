@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
-languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+baseURL       = "http://aidiyet.github.io/"
+languageCode  = "tr-tr"
+title         = "AİDİYET"
 theme         = "roxo"
 summarylength = 25
 
@@ -8,15 +8,15 @@ summarylength = 25
 [menu]
   # Navbar Menus
   [[menu.nav]]
-    name    = "Home"
+    name    = "Anasayfa"
     url     = ""
     weight  = 1
   [[menu.nav]]
-    name    = "About"
+    name    = "Hakkımızda"
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
+    name    = "Yayınlarımız"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
@@ -24,37 +24,42 @@ summarylength = 25
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "TED & Burslar"
     url     = "contact"
     weight  = 5
+  [[menu.nav]]
+    name    = "📸"
+    url     = "https://instagram.com/tebankara/"
+    weight  = 6
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/anasayfa/anasayfa.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
+  description = "AİDİYET Bülten | TEB Ankara Öğrencilerinin Kalemlerinden Doğan Site"
+  author = "Ozan Ali Altundal"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  formspreeFormUrl  = "Your ..."
 
   # Contact Form
   [params.contactForm]
-    placeholder_first_name        = "First Name"
-    placeholder_last_name         = "Last Name"
-    placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
-    send_message                  = "Send Message"
+    # placeholder_first_name        = "First Name"
+    # placeholder_last_name         = "Last Name"
+    # placeholder_email             = "Email"
+    # placeholder_project_type      = "Project Type"
+    # placeholder_about_the_project = "About the Project"
+    button_1                  = "TED Anasayfa"
+    button_2                  = "TED Burslar"
 
-    [[params.contactForm.projectType]]
-      value = "gd"
-      title  = "Graphics Design"
-    [[params.contactForm.projectType]]
-      value = "wd"
-      title  = "Web Design"
+    # [[params.contactForm.projectType]]
+    #   value = "gd"
+    #   title  = "Graphics Design"
+    # [[params.contactForm.projectType]]
+    #   value = "wd"
+    #   title  = "Web Design"
   
   # Navbar Action Button
   [params.navAction]
@@ -67,20 +72,20 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
-    primary_button        = "See Our Works"
+    heading               = "Aidiyet Projesi, 7'den 70'e herkesin ilgisini çekecek içeriklerle sizlere ulaşmayı amaçlar."
+    tagline               = "TEB Ankara | AİDİYET 📰"
+    primary_button        = "Yayınlarımız"
     primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
-    secondary_button_url  = "contact"
+    secondary_button      = "İçeriklerimiz"
+    secondary_button_url  = "blog"
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "EN SON ÇIKAN BÜLTENLERİMİZ"
+    subtitle  = "Eğlendirici ve bilgilendirici içeriklerimiz sizlerin okumasını bekliyor!"
 
   [params.call_to_action]
-    enable              = true
+    enable              = false
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "LET’S WORK TOGETHER"
     primary_button      = "Submit Query"
@@ -91,41 +96,39 @@ summarylength = 25
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
-      title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      title   = "İletişim Bilgileri"
+      email   = "dergi.aidiyet@gmail.com"
+      phone   = ""
+      address = ""
+
       # Footer Sitemap
       [params.footer.sitemap]
-        title   = "Sitemap"
+        title   = "Site Haritası"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "Hakkımızda"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "Yayınlarımız"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
           name = "Blog"
           url  = "blog"
         [[params.footer.sitemap.link]]
-          name = "Contact"
+          name = "TED & Burslar"
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "Medium"
+          name = "📸 Instagram - TEB Ankara"
+          url  = "https://instagram.com/tebankara/"
+        [[params.footer.social.link]]
+          name = "📸 Instagram - Aidiyet"
           url  = "#"
         [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Instagram"
+          name = "🔗 LinkedIn"
           url  = "#"
       # Footer Service
       [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+        title       = "Aidiyet Nedir❔"
+        description = "Vizyonumuz; Aidiyet ekibi olarak TED ile yolları kesişmiş her yaştan insana ulaşmak ve kendimizi tanıtmak, bilgilerimizi paylaşmak..."
