@@ -72,7 +72,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Aidiyet Projesi, 7'den 70'e herkesin ilgisini çekecek içeriklerle sizlere ulaşmayı amaçlar."
+    heading               = "Aidiyet, 7'den 70'e herkesin ilgisini çekecek içeriklerle sizlere ulaşmayı amaçlar."
     tagline               = "TEB Ankara | AİDİYET 📰"
     primary_button        = "Yayınlarımız"
     primary_button_url    = "portfolio"
@@ -118,7 +118,7 @@ summarylength = 25
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
-        title   = "Social Media"
+        title   = "Sosyal Medya"
         [[params.footer.social.link]]
           name = "📸 Instagram - TEB Ankara"
           url  = "https://instagram.com/tebankara/"
