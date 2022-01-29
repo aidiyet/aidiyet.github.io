@@ -39,9 +39,9 @@ summarylength = 25
   # Meta data
   description = "AİDİYET Bülten | TEB Ankara Öğrencilerinin Kalemlerinden Doğan Site"
   author = "Ozan Ali Altundal"
-  # Google Analitycs
-  googleAnalitycsID = "G-TJJKDRVZJ7"
-  # We're using formspree.io for form handling, paste your formspree url below
+  # Google Analitycs [disabled here]
+  googleAnalitycsID = "Your ID ..."
+  # We're using formspree.io for form handling, paste your formspree url below [disabled here]
   formspreeFormUrl  = "Your ..."
 
   # Contact Form
