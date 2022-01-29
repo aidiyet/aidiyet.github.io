@@ -40,7 +40,7 @@ summarylength = 25
   description = "AİDİYET Bülten | TEB Ankara Öğrencilerinin Kalemlerinden Doğan Site"
   author = "Ozan Ali Altundal"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "G-TJJKDRVZJ7"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "Your ..."
 
