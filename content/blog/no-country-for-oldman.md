@@ -5,6 +5,7 @@ image: images/blog/no-country-for-oldman-kapak.png
 feature_image: images/blog/no-country-for-oldman.jpg
 author: Yağız Külekçi
 ---
+
 İyinin ve kötünün savaşının, haklı ve haksızın çatışmasının, güzel ve çirkinin kavgasının bir anlamı kalmadı evlat. İnsanlık televizyonla yeni tanışırken bir bakmışsın telefonlar herkesin cebine sığıyor. Geceleri evlerimizin kapısını açık bırakırken şimdi 3 kere kitliyoruz. İstikrar ve düzenden bahsediyorum!…
 
 Bir kişi dışında herkesin öldüğü kartel çatışmasından para çantasını çalan Llewellyn Moss olayın akşamında son kalan kişiye su getirmesiyle kendini bir çatışmanın ortasında bulur. Çünkü Anton Chigurh gps ile çantayı takip etmektedir. Yaralansa da kaçmayı başarır. Eee sonuçta iyilik yaptı değil mi? Clint Eastwood’un “İyi” si gibi ettiğini bulmalı.
