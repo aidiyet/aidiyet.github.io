@@ -1,38 +1,38 @@
 enable  : true
 title   : Aidiyet projesi kadrosu
 members  :
-  - image       : images/team/team-member-one.jpg
+  - image       : images/team/ozan.jpeg
     name        : OZAN ALİ ALTUNDAL
     designation : Fikir Lideri
     linkedin    : https://tr.linkedin.com/in/ozan-ali-altundal-9a3708224/
     instagram   : https://www.instagram.com/ozan.altundal_/
 
-  - image       : images/team/team-member-two.jpg
+  - image       : images/team/asli.jpg
     name        : ASLI YALÇINKAYA
     designation : Sayı Sorumlusu
-    linkedin    : https://www.linkedin.com/
+    linkedin    :  https://tr.linkedin.com/in/asl%C4%B1-yal%C3%A7%C4%B1nkaya-394086230/
     instagram   : https://www.instagram.com/asliyalcinkya/
 
-  - image       : images/team/team-member-two.jpg
+  - image       : images/team/dilara.jpg
     name        : DİLARA DEMİRCİOĞLU
     designation : Baş Tasarımcı
     linkedin    : https://tr.linkedin.com/in/dilara-demircio%C4%9Flu-b01381202/
     instagram   : https://www.instagram.com/ddemirciioglu/
 
-  - image       : images/team/team-member-four.jpg
+  - image       : images/team/dilara.jpg
     name        : SALİH BURAK GÜLEN
     designation : Organizasyon Sorumlusu
     linkedin    : https://tr.linkedin.com/in/salih-burak-g%C3%BClen-4438731a2/
     instagram   : https://www.instagram.com/salihburakgulen/
 
-  - image       : images/team/team-member-five.jpg
+  - image       : images/team/baturalp.png
     name        : BATURALP KIZILTAN
     designation : IT Guy
     linkedin    : https://www.linkedin.com/in/baturalpkiziltan/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-six.jpg
-    name        : ALİ BARAN ARIBAN
+  - image       : images/team/ozan.jpeg
+    name        : OZAN ALİ ALTUNDAL
     designation : Baş Editör
-    linkedin    : https://tr.linkedin.com/in/alibaranar%C4%B1ban/
-    instagram   : https://www.instagram.com/
+    linkedin    : https://tr.linkedin.com/in/ozan-ali-altundal-9a3708224/
+    instagram   : https://www.instagram.com/ozan.altundal_/

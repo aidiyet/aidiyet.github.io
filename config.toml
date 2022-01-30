@@ -55,11 +55,11 @@ summarylength = 25
     button_2                  = "TED Burslar"
 
     # [[params.contactForm.projectType]]
-    #   value = "gd"
-    #   title  = "Graphics Design"
+      # value = "gd"
+      # title  = "Graphics Design"
     # [[params.contactForm.projectType]]
-    #   value = "wd"
-    #   title  = "Web Design"
+      # value = "wd"
+      # title  = "Web Design"
   
   # Navbar Action Button
   [params.navAction]
@@ -85,13 +85,13 @@ summarylength = 25
     subtitle  = "Eğlendirici ve bilgilendirici içeriklerimiz sizlerin okumasını bekliyor!"
 
   [params.call_to_action]
-    enable              = false
+    enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
-    primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+    title               = "Aidiyet Bülten'in 1. Sayısı Çıktı !"
+    primary_button      = "Yayınlarımız"
+    primary_button_url  = "portfolio"
+    secondary_button    = "Bülten 1. Sayı"
+    secondary_button_url = "portfolio/aidiyet-sayi-1/"
 
   [params.footer]
     # Footer Contact Info
@@ -127,7 +127,7 @@ summarylength = 25
           url  = "#"
         [[params.footer.social.link]]
           name = "🔗 LinkedIn"
-          url  = "#"
+          url  = "https://www.linkedin.com/in/teb-ankara-62160422a/"
       # Footer Service
       [params.footer.service]
         title       = "Aidiyet Nedir❔"

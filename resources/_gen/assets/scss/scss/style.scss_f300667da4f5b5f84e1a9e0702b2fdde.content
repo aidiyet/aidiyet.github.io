@@ -173,7 +173,7 @@ textarea.form-control {
     padding: 0;
     margin: 0; }
     .site-navigation .navbar-brand img {
-      max-width: 78px; }
+      max-width: 100px; }
   @media (max-width: 991px) {
     .site-navigation .nav-item {
       text-align: center; } }
