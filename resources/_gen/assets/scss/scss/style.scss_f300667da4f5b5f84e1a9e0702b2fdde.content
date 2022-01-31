@@ -108,7 +108,7 @@ body {
     margin-bottom: 15px; }
     @media (max-width: 991px) {
       .section-title h2 {
-        font-size: 40px; } }
+        font-size: 35px; } }
   .section-title p {
     font-size: 20px;
     font-weight: 300; }
@@ -173,7 +173,7 @@ textarea.form-control {
     padding: 0;
     margin: 0; }
     .site-navigation .navbar-brand img {
-      max-width: 100px; }
+      max-width: 115px; }
   @media (max-width: 991px) {
     .site-navigation .nav-item {
       text-align: center; } }
