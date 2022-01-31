@@ -1,5 +1,5 @@
 enable  : true
-title   : Aidiyet projesi kadrosu
+title   : Aidiyet projesi yönetim kadrosu
 members  :
   - image       : images/team/ozan.jpeg
     name        : OZAN ALİ ALTUNDAL
@@ -19,7 +19,7 @@ members  :
     linkedin    : https://tr.linkedin.com/in/dilara-demircio%C4%9Flu-b01381202/
     instagram   : https://www.instagram.com/ddemirciioglu/
 
-  - image       : images/team/dilara.jpg
+  - image       : images/team/salih.jpg
     name        : SALİH BURAK GÜLEN
     designation : Organizasyon Sorumlusu
     linkedin    : https://tr.linkedin.com/in/salih-burak-g%C3%BClen-4438731a2/

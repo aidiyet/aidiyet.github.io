@@ -1,0 +1,41 @@
+---
+title: "TEB Ankara’nın Demirbaşlarından, İbrahim Aslan"
+date: 2022-01-29T15:45:06+06:00
+image: images/blog/teb-ankaranin-demirbaslarindan-ibrahim-aslan-kapak.png
+feature_image: images/blog/teb-ankaranin-demirbaslarindan-ibrahim-aslan.png
+author: Semiha Ömür & Sıla Kurğa
+---
+
+> **1) "Bize biraz kendinden bahset, kimdir İbrahim Aslan?"**
+
+Ben İbrahim Aslan, 27 Haziran 1999 Kırşehir doğumluyum. Eğitim hayatıma köy okulunda başladım. Ailem eğitimimiz için Mersin’e taşındı ve eğitimime orada devam ettim. Bu karar isabetli oldu çünkü Mersin’de sevdiğim bir öğretmenim sayesinde ben ve arkadaşım Atahan Erdurak meşale olarak TED Mersin Koleji’ne başladık. TED’den önce İbrahim; içine kapanık, sessiz ama efendi diye bahsedilen bir çocuktu. Sonrasında origamiyle tanıştım, şimdilerde gerçekleştirmeye çalıştığım mühendislik hayalini kurdum. TED sayesinde şehirle, şairlerle, tartışma ortamıyla tanıştım, içimdeki cevheri ortaya çıkardı ve hayat boyu hissetmemi sağladı. Şimdi TEDÜ’de Elektrik-Elektronik bölümü son sınıf öğrencisiyim. Şuan İbrahim nasıl biridir derseniz; komiktir, sıcakkanlıdır ve sorumluluk sahibidir. Ayrıca kendimi origamiyle tanımladığım rivayetleri de doğrudur.
+
+> **2) "Kişisel serüveninde TED’in öneminden bahsedebilir misin?"**
+
+Sanırım TED’in hayatımdaki yerini ilk kez benimle aynı şekilde bu yola başlamış insanların, başka yönlere; tasarlamadıkları şekilde savrulduklarını gördüğümde anladım. TED’in sağladığı ayrıcalıklar beni düşünsel anlamda değiştirip geliştirmiş; daima ilerlemişim. Bu farkı gördüğümde içimde bir gönül borcu doğuyor. Rahatlıkla söyleyebilirim, yapacak çok iş var ve temelde hepimizin içinde başkalarını değiştirmek için devasa bir güç var. TED bana bu gücü verdi.
+
+> **3) "TEB Ankara ile yolun yepyeni bir hayata, üniversiteye başladığın dönemde kesişti. Bu noktada kendinde nelerin değiştiğini hissediyorsun?"**
+
+Ben Ankara’yı TEB Ankara sayesinde tanıdım. Üniversiteye başladığımda Baturalp beni aradı ve dedi ki: ”İbrahim, hoş geldin! Yurdunu ayarladın mı? Nerede kalacaksın? Bir sıkıntın var mı?” ve kendimi ilk günden ait hissetmeye başladım. Ardından TEB Ankara’da benim gibi başka meşaleler olduğunu görünce hemen ısındım topluluğa. Akabinde etkinlikler başladı, öyle çabuk kaynaştık ki! Hepsi sorularımı sorabileceğim, kitaplarını kullanabileceğim, bana ders anlatabilecek, benim gibi insanlardı. TEB sayesinde her üniversiteden, her bölümden, her ilden arkadaşım vardı; hem de geçici değillerdi, yoldaşlık gibiydi. Yönetim kurulu da çok destek verdi bu konuda. Mesela ilk etkinliğimiz piknikti, orada voleybol turnuvasına katıldım ve çok güzel insanlar tanıdım. O sene kampa gittik ve TEB ruhunun yalnızca Ankara'dan ibaret olmadığını anladım; yurt dışından ve yurt içinden sadece öğrencilerle değil, kariyer sahibi insanlarla da tanıştım. TEB Ankara'nın ileride varacağı noktayı o etkinliklerde anladım. TEB Ankara olmasaydı açıkça söyleyebilirim ki bu kadar arkadaşım olmazdı, bu kadar insanla yardımlaşmazdım, sosyal bilincim bu kadar yüksek olmazdı. Çünkü TEB Ankara bana birlikte gelişme duygusunu aşıladı. Ayrıca vals ve diksiyon dersleri aldım; “Bin Turna Bir Umut” hayalimi gerçekleştirdim. Sosyal başarılarımda TEB Ankara’nın payı büyük. Ben usulca sahneden çekilsem de gözüm arkada kalmıyor çünkü yaptıklarımızı benimseyip geliştirerek büyüyen bir aile var. İyi ki TEB Ankara!
+
+> **4) "Sosyal sorumluluk projelerinde aktif görev alan bir insansın ve aynı zamanda “Bin Turna Bir Umut” projesinin öncülerindensin. Senin için sosyal sorumluluk nedir, bu konuda hislerin nelerdir?"**
+
+Öncelikle sorumluluk yerine gönüllülük ya da farkındalık diyebiliriz. TEB Ankara her zaman sosyal farkındalığı yüksek bir topluluk olmuştur. Büyük bir facia sonrasında Soma’ya giden, lösemili çocukların acılarına ortak olan benim büyüklerimdi. Onların kaldığı yerden biz devam ettik ve okullarından başka hiçbir şeyi olmayan çocuklara dışarıdaki dünyayı gösterdik. “Bin Turna Bir Umut” projesi ile sosyal sorumluluğa farklı bir yönden baktık ve projenin ses getirmesi bizi çok mutlu etti. TED’in bize verdiklerini biz de başkalarına vermek için gönül borcu duyuyoruz. Bu duygu yalnızca TED’e karşı değil insanlığın tamamına karşı. Şu an 3000 kişiyi aşan bir meşale topluluğumuz var ve birlikte yapamayacağımız hiçbir şey yok. En azından şimdi elimizi taşın altına koyarsak ilerde büyük kayaları kaldırabiliriz. 
+
+> **5) "Hala üniversite hayalleri kuranlara bilseler çok iyi olur diyebileceğin bir şeyler var mı?"**
+
+Tercih yapanlara İngilizce eğitiminin nasıl olduğuna dikkat etmelerini, toplulukları araştırmalarını tavsiye ederim. Ayrıca toplulukların ne kadar aktif olduğuna da göz atabilirler, çünkü aktif toplulukların olması öğrencinin proje yapma olanağını artırır ve sosyal alanda gelişmesine yardımcı olur. Bölüm seçerken bölümün geleceği dikkate alınmalı. Ek olarak akademik kadroyu istedikleri bölüm bazında kontrol etmelerini ve o kadronun faaliyetlerini öğrenmelerini tavsiye edebilirim. Ne kadar çok alanda çalışmış uzman varsa kendilerinin de bu alanlardan birini seçmek için o kadar olanakları olur. Genelleme yapıp üniversitenin tüm kadrosunun iyi olduğunu düşünmek hatalı olabilir. Son olarak kampüs imkanları da göz önüne alınmalı. 
+
+> **6) "En başından üniversiteli olsaydın şimdi, neleri değiştirirdin?"** 
+
+Akademik anlamda daha sıkı davranırdım. Çünkü ilk sene gözümü korkutan derslere dönüp baktığımda o kadar zor olmadıklarını fark ediyorum. İlk sene zor ama gittikçe zorlaşıyor. İlk zamanlarda bilmediğim çoğu konuya artık çocuk oyuncağı diyorum, çünkü üniversitede bilgi seviyeniz katlanarak artıyor. Ayrıca daha çok projeye katılmak isterdim. TEB Ankara yönetim kuruluna daha erken girerdim. Ankara’yı daha çok gezerdim. Ben ne yazık ki pandemi yüzünden Work&Travel ya da Erasmus yapamadım. Umarım kimse pandemi gibi bir talihsizliği yaşamaz. Yine de çok pişmanlığım olduğu söylenemez.
+
+> **7) "İbrahim’in hayatı bundan sonra nasıl olacak, onun hedefleri, beklentileri neler?"**
+
+Adımın önüne mühendis sıfatı gelecek. Bölümümüzün zorluğu işi sahada öğrenmeye mecbur bırakması. Bu yüzden sahalar beni bekliyor olacak, örneğin havacılık ve uzay mühendisliğine el atmak ve Metaverse gibi insan-yapay zeka etkileşimi temelli projeler yapmak istiyorum. TEB Ankara’dan ayrılacağım ama TEBMET’e dahil olmanın gururunu yaşayacağım. Tango öğreneceğim. Yüksek lisans başvurularına başladım bile, burs alabilirsem yurt dışı mezunu olarak görebilirsiniz beni. Ankara’yı çok sevdim ama başka yerlerde başka insanlara ulaşmak da isterim. Finansal özgürlüğümü elime alıp kendi imkanlarımla başkalarına fayda sağlamak istiyorum. Çalıştığım yerlerde iz bırakarak daha ileriye gitmek ve başkalarına TED’i öğretmek istiyorum. Bütün bunlar kendimi gerçekleştirmek için birer sıçrama tahtası bana göre.  En önemlisi bir meşale yakmak istiyorum, Mersinli bir çocuğu okutmanın gururunu yaşamak isterim.  
+
+> **8) "Her sene yenilenen TEB Ankara'nın bilmesini, unutmamasını istediğin bir şey var mı?"**
+
+TEB Ankara’yı sadece üniversite, birkaç arkadaş, burs kaynağı, zorunlu etkinlikler veya ingilizce dersleri olarak görmesinler. Burası çok daha fazlası. Burada, başka bir ortamda edinemeyecekleri arkadaşlıkları olacak; bunu içtenlikle söyleyebilirim. TEB bana hepimizin farklı ama bir o kadar da benzer olduğumuzu aşıladı. Başkalarının dertlerini anlamayı, her insanla paylaşacak duyguların olduğunu öğretti. Beraber yılbaşı kutladıkça, yiyip içtikçe, sosyal sorumluluk projelerinde yer aldıkça ailem kadar oluyor buradaki insanlar. TEB’de vakit geçirmek ve yönetim kurulunda bulunmak size önemli deneyimler katıyor. Birileri zamanında bana abilik yaptı, şimdi ben başkalarına abilik yapıyorum ki bu paha biçilemez. Berke Alkan’ın zoruyla yönetim kuruluna girmiştim. Sonra o bölüm ve okul değiştirdi. O zaman anladım ki değişime ortak olmak isteyen yalnız o ve ben değilmişim, bizim gibi birçok insan varmış: Yaren, Damla, Tuna, Sümeyra, Semiha, Ozan… Bu insanlar benim hayatımı değiştirdi. TEB olmasa bu insanları tanıyamazdım. Bunu unutmasınlar.
+
+> *Aidiyet adına, soruları hazırlayan ve röportajları yapıp içeriği oluşturan Sıla Kurğa ve Semiha Ömür’e, sorularımıza cevap verip bizleri bilgilendiren ve içimizi ısıtan yanıtlarıyla bültenimizi renklendiren İbrahim Aslan'a teşekkür eder, hedeflerine giden yolda başarılar dileriz.*
