@@ -1,6 +1,6 @@
 baseURL       = "https://aidiyet.org/"
 languageCode  = "tr-tr"
-title         = "AİDİYET"
+title         = "AİDİYET | Türkiye'nin Kalbindeki Meşaleler"
 theme         = "roxo"
 summarylength = 25
 
@@ -29,7 +29,7 @@ summarylength = 25
     weight  = 5
   [[menu.nav]]
     name    = "📸"
-    url     = "https://instagram.com/tebankara/"
+    url     = "https://www.instagram.com/aidiyetbulten/"
     weight  = 6
 
 # Site Params
@@ -124,7 +124,7 @@ summarylength = 25
           url  = "https://instagram.com/tebankara/"
         [[params.footer.social.link]]
           name = "📸 Instagram - Aidiyet"
-          url  = "#"
+          url  = "https://www.instagram.com/aidiyetbulten/"
         [[params.footer.social.link]]
           name = "🔗 LinkedIn"
           url  = "https://www.linkedin.com/in/teb-ankara-62160422a/"

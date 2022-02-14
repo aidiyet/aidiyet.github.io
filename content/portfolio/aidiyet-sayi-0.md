@@ -12,4 +12,4 @@ Geçtiğimiz iki yıl hepimiz için çok zorlu bir süreçti. Bu süreçte evimi
 
 Yaptığımız etkinlikler bizde unutulmaz ve gelecekte ne zaman düşünsek yüzümüzde tebessüm oluşturacak anılar bırakıyor. Fakat biz bu anıların somut bir şekilde elimizde bulunmasının çok daha güzel ve kalıcı olabileceğini düşündük. Aynı zamanda ilgili arkadaşlarımızın ürettiği çeşitli içerikleri paylaşabileceği bir platform oluşturmayı planladık. Bu düşüncelerden yola çıkarak gelenekselleşmesini umduğumuz "AİDİYET" bültenini çıkarmaya karar verdik. 2021-2022 döneminde çıkardığımız AİDİYET'in sıfırıncı sayısının bülteninin devamı için bir örnek olmasını temenni ediyoruz.
 
-#### Bültenimiz, yenilenmiş tasarımı ile çok yakında sizlerle...
+[Aidiyet Bülteni 0. sayı için tıklayınız.](https://joom.ag/CjsI "Dünya'nın en iyi bülteni!")
