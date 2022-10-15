@@ -8,11 +8,11 @@ testimonial_item :
     quote : > 
             "Hayatımda gördüğüm en iyi içerikler bu sitede, keşke benim de bu kalitede bir sitem olsaydı. Her gün akşam uyumadan bültenlere göz atıyorum." 
 
-  - thumb : "images/testimonial/jeff.jpg"
-    name  : "Jeff Bezos"
-    company_position: "Yatırımcı"
+  - thumb : "images/testimonial/yorekok.jpg"
+    name  : "Yorekok"
+    company_position: "YouTuber"
     quote : > 
-            "Binlerce makale okudum, bülten inceledim, ancak böylesine içten ve samimi olanıyla karşılaşmadım. İnanıyorum ki Aidiyet çok daha iyi yerlere gelecek." 
+            "YouTube bataklığından çıkıp zihnimi dinlendirdiğim ve akıl sağlığımı tekrardan kazandığım güzide mekan. Foseptik çukuruna girmeden önce mutlaka uğrayın." 
 
   - thumb : "images/testimonial/rock.jpg"
     name  : "Dwayne Johnson"
@@ -37,3 +37,21 @@ testimonial_item :
     company_position: "Video oyunu tasarımcısı"
     quote : > 
             "Oyunlarımda hiçbir zaman ulaşamayacağım düzeyde samimiyet, haz ve eğlence bu içeriklerde saklı. Bunu nasıl yaptıklarını öğrenmeliyim." 
+            
+  - thumb : "images/testimonial/mcqueen.jpg"
+    name  : "Şimşek McQueen"
+    company_position: "Piston Kupası Yarışmacısı"
+    quote : > 
+            "Tamam, başlıyoruz. Odaklan. İçerik. Burası Aidiyet. Bir kazanan, sıfır kaybeden. Ben içerikleri kahvaltı niyetine yerim. Kahvaltı? Belki de kahvaltı yapmam gerekirdi." 
+            
+  - thumb : "images/testimonial/jesus.jpg"
+    name  : "Jorge Jesus"
+    company_position: "Teknik Direktör"
+    quote : > 
+            "Ben içerik üreticilerinin hep önde basmasını isterim. En iyi yazar, önde basabilen, ne yazdığını bilen Aidiyet yazarıdır. Até mais tarde" 
+            
+  - thumb : "images/testimonial/villager.jpg"
+    name  : "Minecraft Villager"
+    company_position: "Çiftçi"
+    quote : > 
+            "Binlerce makale okudum, bülten inceledim, ancak böylesine içten ve samimi olanıyla karşılaşmadım. İnanıyorum ki Aidiyet çok daha iyi yerlere gelecek. HuH" 

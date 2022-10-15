@@ -87,11 +87,11 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "🔥 Aidiyet Bülten'in 1. Sayısı Çıktı !"
+    title               = "🔥 Aidiyet Bülten'in 2. Sayısı Çıktı !"
     primary_button      = "Yayınlarımız"
     primary_button_url  = "portfolio"
-    secondary_button    = "Bülten 1. Sayı "
-    secondary_button_url = "portfolio/aidiyet-sayi-1/"
+    secondary_button    = "Bülten 2. Sayı "
+    secondary_button_url = "portfolio/aidiyet-sayi-2/"
 
   [params.footer]
     # Footer Contact Info
