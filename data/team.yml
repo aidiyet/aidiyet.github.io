@@ -1,10 +1,10 @@
 enable  : true
 title   : Aidiyet projesi yönetim kadrosu
 members  :
-  - image       : images/team/ozan.jpeg
+  - image       : images/team/ozan.jpg
     name        : OZAN ALİ ALTUNDAL
     designation : Proje Sorumlusu
-    linkedin    : https://tr.linkedin.com/in/ozan-ali-altundal-9a3708224/
+    linkedin    : https://tr.linkedin.com/in/ozan-ali-altundal/
     instagram   : https://www.instagram.com/ozan.altundal_/
 
   - image       : images/team/asli.jpg
@@ -13,26 +13,44 @@ members  :
     linkedin    :  https://tr.linkedin.com/in/asl%C4%B1-yal%C3%A7%C4%B1nkaya-394086230/
     instagram   : https://www.instagram.com/asliyalcinkya/
 
+  - image       : images/team/eren.png
+    name        : EREN KARAGÜL
+    designation : Baş Tasarımcı
+    linkedin    : https://www.linkedin.com/in/eren-karagül-784278123/
+    instagram   : https://www.instagram.com/karagul.eren/
+
+  - image       : images/team/sila.jpg
+    name        : SILA KURĞA
+    designation : İçerik Sorumlusu
+    linkedin    : https://www.linkedin.com/in/sila-kur%C4%9Fa-488a09188/
+    instagram   : https://www.instagram.com/kurgansla/
+
+  - image       : images/team/toprak.jpg
+    name        : TOPRAK ALTUNAY
+    designation : Baş Editör
+    linkedin    : https://www.linkedin.com/in/toprakaltunay/
+    instagram   : https://www.instagram.com/toprakaltunay/
+
+  - image       : images/team/baturalp.png
+    name        : BATURALP KIZILTAN
+    designation : IT Guy
+    linkedin    : https://linkedin.com/in/baturalpk/
+    instagram   : https://www.instagram.com/
+    
   - image       : images/team/dilara.jpg
     name        : DİLARA DEMİRCİOĞLU
-    designation : Baş Tasarımcı
+    designation : Denetleme Kurulu Üyesi
     linkedin    : https://tr.linkedin.com/in/dilara-demircio%C4%9Flu-b01381202/
     instagram   : https://www.instagram.com/ddemirciioglu/
 
   - image       : images/team/salih.jpg
     name        : SALİH BURAK GÜLEN
-    designation : Organizasyon Sorumlusu
+    designation : Denetleme Kurulu Üyesi
     linkedin    : https://tr.linkedin.com/in/salih-burak-g%C3%BClen-4438731a2/
     instagram   : https://www.instagram.com/salihburakgulen/
 
-  - image       : images/team/baturalp.png
-    name        : BATURALP KIZILTAN
-    designation : IT Guy
-    linkedin    : https://www.linkedin.com/in/baturalpkiziltan/
-    instagram   : https://www.instagram.com/
-
-  - image       : images/team/toprak.jpg
-    name        : TOPRAK ALTUNAY
-    designation : Baş Editör
-    linkedin    : https://linkedin.com/
-    instagram   : https://www.instagram.com/toprakaltunay/
+  - image       : images/team/semiha.jpg
+    name        : SEMİHA ÖMÜR 
+    designation : Denetleme Kurulu Üyesi
+    linkedin    : https://www.linkedin.com/in/semiha-%C3%B6m%C3%BCr-5089501a6/
+    instagram   : https://www.instagram.com/semiha.omur/
