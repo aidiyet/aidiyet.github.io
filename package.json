@@ -1,6 +1,6 @@
 {
   "name": "aidiyet.github.io",
-  "version": "0.1.0",
+  "version": "2.0.0-alpha.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,6 +11,7 @@
     "tsc:check": "tsc --noEmit"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.16",
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0"

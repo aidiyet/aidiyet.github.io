@@ -4,8 +4,8 @@
 
   --foreground-rgb: 0, 0, 0;
   --background-rgb: 255, 255, 255;
-  --primary-red: '#7e090a';
-  --primary-blue: '#141d44';
+  --primary-red: #7e090a;
+  --primary-blue: #141d44;
 }
 
 * {
