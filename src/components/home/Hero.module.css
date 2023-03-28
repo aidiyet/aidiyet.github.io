@@ -1,0 +1,86 @@
+#root {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 4em 0;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+
+  padding: 4em 2em 4em;
+
+  background-image: url('/hero/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#root h1 {
+  text-align: center;
+  margin: 0 auto;
+
+  color: var(--primary-blue);
+  font-weight: 600;
+  font-size: 2.25rem;
+  line-height: 1.25em;
+  width: 100%;
+}
+
+#links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 1em 4em;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#links a {
+  color: white;
+  font-weight: 600;
+
+  padding: 1em 2em;
+
+  border: 0.2em solid var(--primary-blue);
+  background-color: var(--primary-blue);
+  transition: filter 0.5s ease;
+}
+
+#links a:nth-child(even) {
+  border-color: var(--primary-red);
+  background-color: var(--primary-red);
+}
+
+#root svg {
+  color: var(--primary-blue);
+
+  width: 4em;
+  margin: 0 auto;
+}
+
+#root svg:hover {
+  cursor: pointer;
+}
+
+@media (any-pointer: fine) {
+  #links a:hover {
+    filter: brightness(50%);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #root h1 {
+    font-size: 3rem;
+    max-width: 65%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #root h1 {
+    max-width: 50%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  #root h1 {
+    max-width: 40%;
+  }
+}
