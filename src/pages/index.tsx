@@ -1,5 +1,6 @@
 import Hero from '@/components/home/Hero';
 import Statistics from '@/components/home/Statistics';
+import Testimonials from '@/components/home/Testimonials';
 import BaseLayout from '@/layouts/BaseLayout';
 import Head from 'next/head';
 
@@ -15,6 +16,7 @@ export default function Home() {
       <BaseLayout>
         <Hero />
         <Statistics />
+        <Testimonials />
       </BaseLayout>
     </>
   );

@@ -1,0 +1,94 @@
+#root {
+  padding: 2em;
+
+  background-color: #f7f9ff;
+}
+
+#heading {
+  text-align: center;
+}
+
+#heading h2 {
+  font-weight: 300;
+  font-size: 3rem;
+  margin-bottom: 0.5em;
+}
+
+#heading p {
+  margin-bottom: 2em;
+}
+
+#card-group {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(7.5em, 19em));
+  grid-gap: 2em;
+  grid-auto-rows: 1fr;
+  justify-content: center;
+  align-items: center;
+
+  padding: 1em 0;
+
+  width: 75%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.card {
+  position: relative;
+  background-color: white;
+
+  height: 100%;
+  margin: 0.15em;
+  padding: 2em 2em 1em;
+
+  border-radius: 1em;
+
+  transition: all 0.3s ease-in-out;
+}
+
+@media (any-pointer: fine) {
+  .card:hover {
+    box-shadow: 0 0 0.1em 0.1em var(--primary-blue);
+    transform: scale(1.05);
+  }
+}
+
+.card-frontmatter {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  margin-bottom: 1.5em;
+}
+
+.card-frontmatter-thumbnail {
+  height: 5em;
+  margin-right: 1em;
+}
+
+.card-frontmatter-thumbnail img {
+  position: relative !important;
+  height: 100% !important;
+  width: auto !important;
+}
+
+.card-frontmatter-info {
+  align-self: center;
+
+  line-height: 1.5em;
+}
+
+.card-frontmatter-info > p:first-child {
+  font-weight: 600;
+}
+
+.card-frontmatter-info > p:nth-child(2) {
+  color: #646569;
+}
+
+.card > p {
+  color: #9d9ea5;
+  font-weight: 300;
+
+  line-height: 1.5em;
+}
