@@ -1,0 +1,57 @@
+#root {
+  display: flex;
+  gap: 4em 0;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 4em 0;
+
+  background-color: var(--primary-blue);
+  color: white;
+}
+
+#root h2 {
+  margin: 0 auto;
+  width: 65%;
+
+  font-size: 2.5rem;
+  font-weight: 300;
+  text-align: center;
+}
+
+#counter-group {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2em;
+  justify-items: center;
+  align-items: center;
+
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+#counter-group div p {
+  margin-bottom: 0.5em;
+}
+
+#counter-group div h3 {
+  font-size: 3rem;
+}
+
+@media screen and (min-width: 540px) {
+  #counter-group {
+    grid-template-columns: 1fr 1fr;
+    gap: 2em 4em;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  #counter-group {
+    display: flex;
+    gap: 4em 0;
+    justify-content: space-evenly;
+
+    margin: 0;
+  }
+}
