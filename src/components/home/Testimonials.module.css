@@ -21,14 +21,14 @@
 #card-group {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(7.5em, 19em));
-  grid-gap: 2em;
-  grid-auto-rows: 1fr;
+  gap: 2em;
+
   justify-content: center;
   align-items: center;
 
   padding: 1em 0;
 
-  width: 75%;
+  width: 85%;
   margin: auto;
   overflow: hidden;
 }
@@ -37,7 +37,6 @@
   position: relative;
   background-color: white;
 
-  height: 100%;
   margin: 0.15em;
   padding: 2em 2em 1em;
 
@@ -91,4 +90,15 @@
   font-weight: 300;
 
   line-height: 1.5em;
+}
+
+@media screen and (min-width: 768px) {
+  #card-group {
+    width: 75%;
+    grid-auto-rows: 1fr;
+  }
+
+  .card {
+    height: 100%;
+  }
 }
