@@ -67,6 +67,10 @@
 }
 
 @media screen and (min-width: 768px) {
+  #root {
+    height: calc(100vh - 6rem);
+  }
+
   #root h1 {
     font-size: 3rem;
     max-width: 65%;

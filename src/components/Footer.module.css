@@ -4,7 +4,7 @@
   grid-template-columns: 100%;
   gap: 2em;
 
-  padding: 4em;
+  padding: 4em 2em;
 
   background-color: var(--primary-blue);
   color: white;
@@ -66,6 +66,8 @@
 @media screen and (min-width: 768px) {
   #footer {
     grid-template-columns: 50% 50%;
+
+    padding: 4em;
   }
 
   #scroll-widget-wrapper {
@@ -90,7 +92,7 @@
     grid-template-columns: repeat(5, auto);
     justify-items: initial;
 
-    padding: 2em;
+    padding: 3em;
   }
 
   #logo-wrapper {

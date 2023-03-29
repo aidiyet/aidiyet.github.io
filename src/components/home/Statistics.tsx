@@ -24,16 +24,12 @@ function Statistics() {
     <section id={styles.root}>
       <h2>AİDİYET GÜN GEÇTİKÇE BÜYÜYOR VE GELİŞİYOR!</h2>
       <div id={styles['counter-group']}>
-        {CounterData.map((data, idx) => {
-          return (
-            <>
-              <div key={idx}>
-                <p>{data.title}</p>
-                <h3>{data.value}+</h3>
-              </div>
-            </>
-          );
-        })}
+        {CounterData.map((data, idx) => (
+          <div key={idx}>
+            <p>{data.title}</p>
+            <h3>{data.value}+</h3>
+          </div>
+        ))}
       </div>
     </section>
   );
