@@ -1,5 +1,5 @@
 #root {
-  padding: 2em;
+  padding: 4em 2em;
 
   background-color: #f7f9ff;
 }
@@ -19,8 +19,10 @@
 }
 
 #card-group {
+  --min-card-size: 20em;
+
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(7.5em, 19em));
+  grid-template-columns: repeat(auto-fill, minmax(var(--min-card-size), 1fr));
   gap: 2em;
 
   justify-content: center;
@@ -30,25 +32,26 @@
 
   width: 85%;
   margin: auto;
-  overflow: hidden;
 }
 
 .card {
   position: relative;
   background-color: white;
 
+  width: 100%;
+
   margin: 0.15em;
   padding: 2em 2em 1em;
 
   border-radius: 1em;
 
-  transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in;
 }
 
 @media (any-pointer: fine) {
   .card:hover {
     box-shadow: 0 0 0.1em 0.1em var(--primary-blue);
-    transform: scale(1.05);
+    transform: scale(0.95);
   }
 }
 
@@ -87,18 +90,26 @@
 
 .card > p {
   color: #9d9ea5;
-  font-weight: 300;
+  font-weight: 350;
 
   line-height: 1.5em;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 540px) {
   #card-group {
-    width: 75%;
+    --min-card-size: 17em;
+
     grid-auto-rows: 1fr;
+    width: 75%;
   }
 
   .card {
     height: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #card-group {
+    --min-card-size: 23em;
   }
 }
