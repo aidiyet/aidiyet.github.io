@@ -1,4 +1,5 @@
 import FrontMatter from '@/components/about/FrontMatter';
+import SeniorStaff from '@/components/about/SeniorStaff';
 import Supporters from '@/components/about/Supporters';
 import BaseLayout from '@/layouts/BaseLayout';
 import Head from 'next/head';
@@ -15,6 +16,7 @@ export default function About() {
       <BaseLayout>
         <FrontMatter />
         <Supporters />
+        <SeniorStaff />
       </BaseLayout>
     </>
   );
