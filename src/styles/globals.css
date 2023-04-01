@@ -30,6 +30,12 @@ a {
   text-decoration: none;
 }
 
+img {
+  position: relative !important;
+  height: 100% !important;
+  width: auto !important;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

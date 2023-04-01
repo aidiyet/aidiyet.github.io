@@ -1,0 +1,47 @@
+#root {
+  margin: 0 auto;
+  padding: 2em;
+
+  text-align: center;
+}
+
+#root > h2 {
+  color: var(--primary-blue);
+
+  font-size: 2rem;
+  font-weight: 300;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+#grid {
+  --grid-item-size: 7em;
+  --grid-gap: 2em;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(var(--grid-item-size), 1fr));
+  gap: var(--grid-gap);
+
+  padding-top: 3em;
+}
+
+#grid > .item {
+  height: var(--grid-item-size);
+}
+
+@media screen and (min-width: 768px) {
+  #root {
+    width: 80%;
+    padding-top: 4em;
+
+    text-align: left;
+  }
+
+  #root > h2 {
+    font-size: 3rem;
+  }
+
+  #grid {
+    --grid-gap: 4em;
+  }
+}

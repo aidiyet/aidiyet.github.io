@@ -1,4 +1,5 @@
 import FrontMatter from '@/components/about/FrontMatter';
+import Supporters from '@/components/about/Supporters';
 import BaseLayout from '@/layouts/BaseLayout';
 import Head from 'next/head';
 
@@ -13,6 +14,7 @@ export default function About() {
       </Head>
       <BaseLayout>
         <FrontMatter />
+        <Supporters />
       </BaseLayout>
     </>
   );
