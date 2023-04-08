@@ -4,10 +4,14 @@
   grid-template-columns: 100%;
   gap: 2em;
 
-  padding: 4em 2em;
+  padding: 4em 2em 3em;
 
   background-color: var(--primary-blue);
   color: white;
+}
+
+#footer > span {
+  text-align: center;
 }
 
 #logo-wrapper {
@@ -30,7 +34,11 @@
 }
 
 .footer-element > a {
-  margin: 0.25em 0;
+  margin-bottom: 1.25em;
+}
+
+.footer-element > p {
+  line-height: 1.75;
 }
 
 .footer-element > a,
@@ -68,6 +76,10 @@
     grid-template-columns: 50% 50%;
 
     padding: 4em;
+  }
+
+  #footer > span {
+    text-align: left;
   }
 
   #scroll-widget-wrapper {

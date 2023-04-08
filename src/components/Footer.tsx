@@ -87,6 +87,8 @@ function Footer() {
         <ChevronUpIcon id={styles['scroll-icon']} />
         <p>Sayfanın başına dönmek için tıklayın</p>
       </div>
+
+      <span>&copy; 2022 - {new Date().getFullYear()} TEB Ankara Aidiyet </span>
     </footer>
   );
 }
