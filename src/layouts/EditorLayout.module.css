@@ -1,0 +1,15 @@
+.main {
+  padding: 3rem 25%;
+}
+
+@media screen and (max-width: 1024px) {
+  .main {
+    padding: 3rem 10%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    padding: 2rem 3rem;
+  }
+}
