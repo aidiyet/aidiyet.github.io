@@ -38,6 +38,8 @@ function Tiptap({ postId }: IProps) {
 
   useEffect(() => {
     // TODO: Try to retrieve from the origin (remote database) if applicable. Otherwise rely on the local draft and so on...
+    // TODO - 2: If no post exists with the given ID, generate a new ID with UUIDv4 standards.
+
     localforage
       .getItem<string>(forageKey)
       .then((val) => {

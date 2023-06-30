@@ -3,5 +3,6 @@ export interface Post {
   title: string;
   author: string;
   content: string;
-  editorEmail?: string;
+  editor_email?: string;
+  updated_at?: string;
 }
