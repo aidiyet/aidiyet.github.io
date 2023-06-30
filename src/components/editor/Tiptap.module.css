@@ -31,9 +31,10 @@
 #publish > button {
   padding: 0.4em;
 
-  background-color: var(--primary-blue);
+  background-color: var(--primary-red);
+  color: rgb(var(--background-rgb));
 
-  border: 0.5em solid var(--primary-blue);
+  border: 0.5em solid var(--primary-red);
   border-radius: 0.4em;
 
   font-size: medium;
