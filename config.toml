@@ -1,134 +1,134 @@
-baseURL       = "https://aidiyet.org/"
-languageCode  = "tr-tr"
-title         = "AİDİYET | Türkiye'nin Kalbindeki Meşaleler"
-theme         = "roxo"
+baseURL = "https://aidiyet.org/"
+languageCode = "tr-tr"
+title = "AİDİYET | Türkiye'nin Kalbindeki Meşaleler"
+theme = "roxo"
 summarylength = 25
 
 # Site Menus
 [menu]
-  # Navbar Menus
-  [[menu.nav]]
-    name    = "Anasayfa"
-    url     = ""
-    weight  = 1
-  [[menu.nav]]
-    name    = "Hakkımızda"
-    url     = "about"
-    weight  = 2
-  [[menu.nav]]
-    name    = "Yayınlarımız"
-    url     = "portfolio"
-    weight  = 3
-  [[menu.nav]]
-    name    = "Blog"
-    url     = "blog"
-    weight  = 4
-  [[menu.nav]]
-    name    = "TED & Burslar"
-    url     = "contact"
-    weight  = 5
-  [[menu.nav]]
-    name    = "📸"
-    url     = "https://www.instagram.com/aidiyetbulten/"
-    weight  = 6
+# Navbar Menus
+[[menu.nav]]
+name = "Anasayfa"
+url = ""
+weight = 1
+[[menu.nav]]
+name = "Hakkımızda"
+url = "about"
+weight = 2
+[[menu.nav]]
+name = "Yayınlarımız"
+url = "portfolio"
+weight = 3
+[[menu.nav]]
+name = "Blog"
+url = "blog"
+weight = 4
+[[menu.nav]]
+name = "TED & Burslar"
+url = "contact"
+weight = 5
+[[menu.nav]]
+name = "📸"
+url = "https://www.instagram.com/aidiyetbulten/"
+weight = 6
 
 # Site Params
 [params]
-  logo = "images/anasayfa/anasayfa.png"
-  dateFormat = "26 FEB 1994"
-  # Meta data
-  description = "AİDİYET Bülten | TEB Ankara Öğrencilerinin Kalemlerinden Doğan Site"
-  author = "Ozan Ali Altundal"
-  # Google Analitycs [disabled here]
-  googleAnalitycsID = "Your ID ..."
-  # We're using formspree.io for form handling, paste your formspree url below [disabled here]
-  formspreeFormUrl  = "Your ..."
+logo = "images/anasayfa/anasayfa.png"
+dateFormat = "26 FEB 1994"
+# Meta data
+description = "AİDİYET Bülten | TEB Ankara Öğrencilerinin Kalemlerinden Doğan Site"
+author = "Ozan Ali Altundal"
+# Google Analitycs [disabled here]
+googleAnalitycsID = "Your ID ..."
+# We're using formspree.io for form handling, paste your formspree url below [disabled here]
+formspreeFormUrl = "Your ..."
 
-  # Contact Form
-  [params.contactForm]
-    # placeholder_first_name        = "First Name"
-    # placeholder_last_name         = "Last Name"
-    # placeholder_email             = "Email"
-    # placeholder_project_type      = "Project Type"
-    # placeholder_about_the_project = "About the Project"
-    button_1                  = "TED Anasayfa"
-    button_2                  = "TED Burslar"
+# Contact Form
+[params.contactForm]
+# placeholder_first_name        = "First Name"
+# placeholder_last_name         = "Last Name"
+# placeholder_email             = "Email"
+# placeholder_project_type      = "Project Type"
+# placeholder_about_the_project = "About the Project"
+button_1 = "TED Anasayfa"
+button_2 = "TED Burslar"
 
-    # [[params.contactForm.projectType]]
-      # value = "gd"
-      # title  = "Graphics Design"
-    # [[params.contactForm.projectType]]
-      # value = "wd"
-      # title  = "Web Design"
-  
-  # Navbar Action Button
-  [params.navAction]
-    status  = true
-    name    = "Get in touch"
-    url     = "contact"
-  
+# [[params.contactForm.projectType]]
+# value = "gd"
+# title  = "Graphics Design"
+# [[params.contactForm.projectType]]
+# value = "wd"
+# title  = "Web Design"
 
-  # Banner Section
-  [params.banner]
-    enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Aidiyet, 7'den 70'e herkesin ilgisini çekecek içeriklerle sizlere ulaşmayı amaçlar."
-    tagline               = "TEB Ankara | AİDİYET 📰"
-    primary_button        = "Yayınlarımız"
-    primary_button_url    = "portfolio"
-    secondary_button      = "İçeriklerimiz"
-    secondary_button_url  = "blog"
+# Navbar Action Button
+[params.navAction]
+status = true
+name = "Get in touch"
+url = "contact"
 
-  [params.portfolio]
-    enable    = true
-    title     = "EN SON ÇIKAN BÜLTENLERİMİZ"
-    subtitle  = "Eğlendirici ve bilgilendirici içeriklerimiz sizlerin okumasını bekliyor!"
 
-  [params.call_to_action]
-    enable              = true
-    background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "🔥 Aidiyet Bülten'in 2. Sayısı Çıktı !"
-    primary_button      = "Yayınlarımız"
-    primary_button_url  = "portfolio"
-    secondary_button    = "Bülten 2. Sayı "
-    secondary_button_url = "portfolio/aidiyet-sayi-2/"
+# Banner Section
+[params.banner]
+enable = true
+background_image = "images/backgrounds/hero-background.jpg"
+heading = "Aidiyet, 7'den 70'e herkesin ilgisini çekecek içeriklerle sizlere ulaşmayı amaçlar."
+tagline = "TEB Ankara | AİDİYET 📰"
+primary_button = "Yayınlarımız"
+primary_button_url = "portfolio"
+secondary_button = "İçeriklerimiz"
+secondary_button_url = "blog"
 
-  [params.footer]
-    # Footer Contact Info
-    [params.footer.contactInfo]
-      title   = "İletişim Bilgileri"
-      email   = "dergi.aidiyet@gmail.com"
-      phone   = ""
-      address = ""
+[params.portfolio]
+enable = true
+title = "EN SON ÇIKAN BÜLTENLERİMİZ"
+subtitle = "Eğlendirici ve bilgilendirici içeriklerimiz sizlerin okumasını bekliyor!"
 
-      # Footer Sitemap
-      [params.footer.sitemap]
-        title   = "Site Haritası"
-        [[params.footer.sitemap.link]]
-          name = "Hakkımızda"
-          url  = "about"
-        [[params.footer.sitemap.link]]
-          name = "Yayınlarımız"
-          url  = "portfolio"
-        [[params.footer.sitemap.link]]
-          name = "Blog"
-          url  = "blog"
-        [[params.footer.sitemap.link]]
-          name = "TED & Burslar"
-          url  = "contact"
-      # Footer Social Media
-      [params.footer.social]
-        title   = "Sosyal Medya"
-        [[params.footer.social.link]]
-          name = "📸 Instagram - TEB Ankara"
-          url  = "https://instagram.com/tebankara/"
-        [[params.footer.social.link]]
-          name = "📸 Instagram - Aidiyet"
-          url  = "https://www.instagram.com/aidiyetbulten/"
-        [[params.footer.social.link]]
-          name = "🔗 LinkedIn"
-          url  = "https://www.linkedin.com/in/teb-ankara-62160422a/"
-      # Footer Service
-      [params.footer.service]
-        title       = "Aidiyet Nedir❔"
-        description = "Vizyonumuz; Aidiyet ekibi olarak TED ile yolları kesişmiş her yaştan insana ulaşmak ve kendimizi tanıtmak, bilgilerimizi paylaşmak..."
+[params.call_to_action]
+enable = true
+background_image = "images/backgrounds/cta-background.jpg"
+title = "🔥 Aidiyet Bülten'in 3. Sayısı Çıktı !"
+primary_button = "Yayınlarımız"
+primary_button_url = "portfolio"
+secondary_button = "Bülten 3. Sayı "
+secondary_button_url = "portfolio/aidiyet-sayi-3/"
+
+[params.footer]
+# Footer Contact Info
+[params.footer.contactInfo]
+title = "İletişim Bilgileri"
+email = "dergi.aidiyet@gmail.com"
+phone = ""
+address = ""
+
+# Footer Sitemap
+[params.footer.sitemap]
+title = "Site Haritası"
+[[params.footer.sitemap.link]]
+name = "Hakkımızda"
+url = "about"
+[[params.footer.sitemap.link]]
+name = "Yayınlarımız"
+url = "portfolio"
+[[params.footer.sitemap.link]]
+name = "Blog"
+url = "blog"
+[[params.footer.sitemap.link]]
+name = "TED & Burslar"
+url = "contact"
+# Footer Social Media
+[params.footer.social]
+title = "Sosyal Medya"
+[[params.footer.social.link]]
+name = "📸 Instagram - TEB Ankara"
+url = "https://instagram.com/tebankara/"
+[[params.footer.social.link]]
+name = "📸 Instagram - Aidiyet"
+url = "https://www.instagram.com/aidiyetbulten/"
+[[params.footer.social.link]]
+name = "🔗 LinkedIn"
+url = "https://www.linkedin.com/in/teb-ankara-62160422a/"
+# Footer Service
+[params.footer.service]
+title = "Aidiyet Nedir❔"
+description = "Vizyonumuz; Aidiyet ekibi olarak TED ile yolları kesişmiş her yaştan insana ulaşmak ve kendimizi tanıtmak, bilgilerimizi paylaşmak..."
