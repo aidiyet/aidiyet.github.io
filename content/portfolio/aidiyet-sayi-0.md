@@ -15,4 +15,4 @@ Yaptığımız etkinlikler bizde unutulmaz ve gelecekte ne zaman düşünsek yü
 
 [Aidiyet Bülteni 0. sayısını görüntülemek için tıklayınız.](https://joom.ag/CjsI "Dünya'nın en iyi bülteni!")
 
-[Aidiyet Bülteni 0. sayısını indirmek için tıklayınız.](/bultenler/Aidiyet_Bülten_Sayı_0.pdf)
+[Aidiyet Bülteni 0. sayısını indirmek için tıklayınız.](https://drive.google.com/file/d/1nQ3NrHAtcjD5xdZtlIsci9Gz_r-KBI4e/view)

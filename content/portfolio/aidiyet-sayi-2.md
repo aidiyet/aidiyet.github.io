@@ -25,4 +25,4 @@ Sevgili okurlar, yazımı burada noktalıyorum. AİDİYET’i okumayı ihmal etm
 
 [Aidiyet Bülteni 2. sayısını görüntülemek için tıklayınız.](https://viewer.joomag.com/aidiyet-2-say%C4%B1/0581333001709045105 "Dünya'nın en iyi bülteni!")
 
-[Aidiyet Bülteni 2. sayısını indirmek için tıklayınız.](/bultenler/Aidiyet_Bülten_Sayı_2.pdf)
+[Aidiyet Bülteni 2. sayısını indirmek için tıklayınız.](https://drive.google.com/file/d/1fvXym4mC4ZOU6HOSVOWWxZjHo_nL4k11/view)

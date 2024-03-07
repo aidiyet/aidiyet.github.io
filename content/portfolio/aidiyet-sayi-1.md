@@ -17,4 +17,4 @@ Yüzümüzde tebessüm bırakan anıların somut bir şekilde elimizde bulunmas�
 
 [Aidiyet Bülteni 1. sayısını görüntülemek için tıklayınız.](https://viewer.joomag.com/aidiyet-1-say%C4%B1/0172868001643628871 "Dünya'nın en iyi bülteni!")
 
-[Aidiyet Bülteni 1. sayısını indirmek için tıklayınız.](/bultenler/Aidiyet_Bülten_Sayı_1.pdf)
+[Aidiyet Bülteni 1. sayısını indirmek için tıklayınız.](https://drive.google.com/file/d/1PqSO5gg58SIvbvfhcNBN5nQ-wyTHB2SM/view)

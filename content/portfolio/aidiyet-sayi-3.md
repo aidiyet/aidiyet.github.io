@@ -28,4 +28,4 @@ Yazımın sonuna gelirken, AİDİYET bültenin her sayısının arkasında kocam
 
 [Aidiyet Bülteni 3. sayısını görüntülemek için tıklayınız.](https://viewer.joomag.com/aidiyet-3-say%C4%B1/0496212001709045541 "Dünya'nın en iyi bülteni!")
 
-[Aidiyet Bülteni 3. sayısını indirmek için tıklayınız.](/bultenler/Aidiyet_Bülten_Sayı_3.pdf)
+[Aidiyet Bülteni 3. sayısını indirmek için tıklayınız.](https://drive.google.com/file/d/15Dm8_CH0cC1Z1IZQ6mdf-U88YqchdtsS/view)
