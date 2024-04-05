@@ -13,6 +13,8 @@ Geçtiğimiz iki yıl hepimiz için çok zorlu bir süreçti. Bu süreçte evimi
 
 Yaptığımız etkinlikler bizde unutulmaz ve gelecekte ne zaman düşünsek yüzümüzde tebessüm oluşturacak anılar bırakıyor. Fakat biz bu anıların somut bir şekilde elimizde bulunmasının çok daha güzel ve kalıcı olabileceğini düşündük. Aynı zamanda ilgili arkadaşlarımızın ürettiği çeşitli içerikleri paylaşabileceği bir platform oluşturmayı planladık. Bu düşüncelerden yola çıkarak gelenekselleşmesini umduğumuz "AİDİYET" bültenini çıkarmaya karar verdik. 2021-2022 döneminde çıkardığımız AİDİYET'in sıfırıncı sayısının bülteninin devamı için bir örnek olmasını temenni ediyoruz.
 
-[Aidiyet Bülteni 0. sayısını görüntülemek için tıklayınız.](https://joom.ag/CjsI "Dünya'nın en iyi bülteni!")
+[Aidiyet Bülteni 0. sayısını görüntülemek için tıklayınız.](https://heyzine.com/flip-book/efe69b854c.html "Dünya'nın en iyi bülteni!")
 
 [Aidiyet Bülteni 0. sayısını indirmek için tıklayınız.](https://drive.google.com/file/d/1nQ3NrHAtcjD5xdZtlIsci9Gz_r-KBI4e/view)
+
+[Alternatif link](https://joom.ag/CjsI)

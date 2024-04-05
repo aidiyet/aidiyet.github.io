@@ -15,6 +15,8 @@ Bültenimizin ilk sayısı farklılıklarımızı ve çeşitliliğimizi kucaklad
 
 Yüzümüzde tebessüm bırakan anıların somut bir şekilde elimizde bulunması, aklı ve vicdanı hür gençler olarak ürettiklerimizi paylaşacağımız bir platform olması düşüncesiyle temellerini attığımız AİDİYET bültenimizin ilk sayısı ile karşınızda olmanın gururunu sizlerle paylaşıyorum. Umuyorum ki AİDİYET nice sayılara ulaşır ve bizden sonraki TEB Ankara üyelerinin de bizlerle aynı amacı benimseyerek devam ettirebileceği bir platform olarak varlığını sürdürür. Son yıllarda içinde bulunduğumuz zorlu süreçte bültenimizin tüm okuyucular için umut getirmesini temenni ediyorum. Bizler için emek verildiği gibi biz de sonraki nesiller için güzel imkanlar sağlamaya çabalıyoruz. Birinci sayısını onurla sunduğumuz bu bülten de devamında yapacaklarımızın teminatıdır.
 
-[Aidiyet Bülteni 1. sayısını görüntülemek için tıklayınız.](https://viewer.joomag.com/aidiyet-1-say%C4%B1/0172868001643628871 "Dünya'nın en iyi bülteni!")
+[Aidiyet Bülteni 1. sayısını görüntülemek için tıklayınız.](https://heyzine.com/flip-book/ae493d7abd.html "Dünya'nın en iyi bülteni!")
 
 [Aidiyet Bülteni 1. sayısını indirmek için tıklayınız.](https://drive.google.com/file/d/1PqSO5gg58SIvbvfhcNBN5nQ-wyTHB2SM/view)
+
+[Alternatif Link](https://viewer.joomag.com/aidiyet-1-say%C4%B1/0172868001643628871)

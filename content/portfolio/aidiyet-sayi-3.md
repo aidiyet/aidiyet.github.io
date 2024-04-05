@@ -26,6 +26,8 @@ görevini ekibimle güzel bir şekilde yürütmek için çabaladığımız, beni
 
 Yazımın sonuna gelirken, AİDİYET bültenin her sayısının arkasında kocaman bir ekip olduğunu hatırlatmak isterim. Özgün içerikler ve güzel tasarımlar için emek veren tüm AİDİYET ekibine bizlere bıraktığı güzel anılar için sizlerin huzurunda teşekkür ediyorum.
 
-[Aidiyet Bülteni 3. sayısını görüntülemek için tıklayınız.](https://viewer.joomag.com/aidiyet-3-say%C4%B1/0496212001709045541 "Dünya'nın en iyi bülteni!")
+[Aidiyet Bülteni 3. sayısını görüntülemek için tıklayınız.](https://heyzine.com/flip-book/653311fd93.html "Dünya'nın en iyi bülteni!")
 
 [Aidiyet Bülteni 3. sayısını indirmek için tıklayınız.](https://drive.google.com/file/d/15Dm8_CH0cC1Z1IZQ6mdf-U88YqchdtsS/view)
+
+[Alternatif Link](https://viewer.joomag.com/aidiyet-3-say%C4%B1/0496212001709045541)

@@ -23,6 +23,8 @@ AİDİYET duygusuyla dolup taştığım zamanların birinde hayallerim dünyadan
 
 Sevgili okurlar, yazımı burada noktalıyorum. AİDİYET’i okumayı ihmal etmeyin çünkü AİDİYET herkese dokunup bir araya getiren bir amaç, bir araç oldu ve olmaya da devam edecek. Unutmayın ki ikinci sayısını onurla sunduğumuz AİDİYET yaptıklarımızın göstergesi ve yapacaklarımızın teminatıdır.
 
-[Aidiyet Bülteni 2. sayısını görüntülemek için tıklayınız.](https://viewer.joomag.com/aidiyet-2-say%C4%B1/0581333001709045105 "Dünya'nın en iyi bülteni!")
+[Aidiyet Bülteni 2. sayısını görüntülemek için tıklayınız.](https://heyzine.com/flip-book/6acc2038ba.html "Dünya'nın en iyi bülteni!")
 
 [Aidiyet Bülteni 2. sayısını indirmek için tıklayınız.](https://drive.google.com/file/d/1fvXym4mC4ZOU6HOSVOWWxZjHo_nL4k11/view)
+
+[Alternatif Link](https://viewer.joomag.com/aidiyet-2-say%C4%B1/0581333001709045105)
